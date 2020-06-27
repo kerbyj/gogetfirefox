@@ -1,0 +1,2 @@
+# gogetfirefox
+firefox credentials extractor
